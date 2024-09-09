@@ -37,7 +37,3 @@ Here's how the front-end of the Song Finder looks:
 
 
 ![Song Finder Interface](SongFinder_UI.png)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
